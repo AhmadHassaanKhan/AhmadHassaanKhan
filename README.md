@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AhmadHassaanKhan
+- 👀 I’m interested in ...Computer Science / Programming
+- 🌱 I’m currently learning ... Computer Science
+- 📫 How to reach me ... by GitHub
+- Age 14 
+- Lives in Pakistan
+- STUDYING in Grade 9
